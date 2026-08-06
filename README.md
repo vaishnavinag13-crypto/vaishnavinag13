@@ -1,7 +1,6 @@
 <p align="center">
-<img src="https://media.tenor.com/QVC1Nmb9TwUAAAAd/coding.gif" width="700"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=250&text=%20Vaishnavi%20Nag%20✨&fontSize=55&fontColor=8B5CF6"/>
 </p>
-<p align="center">
   <b> AI Enthusiast •  Full-Stack Developer •  Open Source Learner • Future Software Engineer🚀</b>
 </p>
 
