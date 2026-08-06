@@ -2,7 +2,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4F46E5,30:7C3AED,60:9333EA,100:06B6D4&text=Vaishnavi%20Nag&fontColor=ffffff&fontSize=60&animation=twinkling&fontAlignY=35&desc=Artificial%20Intelligence%20%20•%20%20Full-Stack%20Developer&descAlignY=58&descSize=20"/>
 </p>
-
 <p align="center">
   <b> AI Enthusiast •  Full-Stack Developer •  Open Source Learner • Future Software Engineer🚀</b>
 </p>
