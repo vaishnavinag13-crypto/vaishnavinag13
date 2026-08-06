@@ -1,7 +1,6 @@
 <p align="center">
-<img src="https://media.tenor.com/XU4p46WmUfsAAAAC/artificial-intelligence.gif" width="650"/>
+<img src="https://media.tenor.com/QVC1Nmb9TwUAAAAd/coding.gif" width="700"/>
 </p>
-
 <p align="center">
   <b> AI Enthusiast •  Full-Stack Developer •  Open Source Learner • Future Software Engineer🚀</b>
 </p>
