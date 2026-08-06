@@ -1,14 +1,20 @@
-# v<!-- Banner -->
+<!-- Animated Coding Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,50:7C3AED,100:06B6D4&text=Vaishnavi%20Nag&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Full-Stack%20Developer%20%7C%20Information%20Science%20Engineering&descAlignY=58"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Coding Animation"/>
 </p>
 
 <!-- Animated Typing -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Vaishnavi+Nag;💻+Full-Stack+Developer;🤖+AI+Enthusiast;🚀+Building+Real-World+Solutions;🌱+Always+Learning+New+Technologies" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Vaishnavi+Nag;Information+Science+Engineering+Student;AI+%7C+Full-Stack+Developer;Building+Ideas+into+Reality;Always+Learning+New+Technologies" alt="Typing SVG" />
+</h1>
 
----
+<h3 align="center">
+  Passionate about Artificial Intelligence • Full-Stack Development • Open Source ✨
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vaishnavinag13&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 #   About Me💜
 
