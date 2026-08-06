@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=vaishnavinag13&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-## ✨ About Me
+##  About Me✨
 
 ```diff
 + Name        :: Vaishnavi Nag
