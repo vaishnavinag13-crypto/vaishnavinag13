@@ -6,28 +6,16 @@
   <img src="https://komarev.com/ghpvc/?username=vaishnavinag13&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-#   About Me🚀
+## ✨ About Me
 
-```yaml
-Name: Vaishnavi Nag
-Role: Information Science Engineering Student
-Interests:
-  - Artificial Intelligence
-  - Full-Stack Development
-  - Backend Development
-  - Cloud Computing
-
-Currently Learning:
-  - Advanced Java
-  - React
-  - Node.js
-  - AI & Machine Learning
-
-Motto:
-  "Dream • Code • Create • Repeat"
+```diff
++ Name        :: Vaishnavi Nag
++ Education   :: Information Science Engineering
++ Interests   :: Artificial Intelligence | Full-Stack Development
++ Passion     :: Building impactful software
++ Learning    :: AI • Backend • Cloud
++ Motto       :: "Dream • Code • Create • Repeat"
 ```
-
----
 
 #   Connect With Me🌐
 
@@ -41,7 +29,7 @@ Motto:
 <img src="https://img.shields.io/badge/Gmail-4F46E5?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/vaishnavinag13">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
