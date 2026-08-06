@@ -1,7 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=250&text=%20Vaishnavi%20Nag%20✨&fontSize=55&fontColor=8B5CF6"/>
-</p>
-  <b> AI Enthusiast •  Full-Stack Developer •  Open Source Learner • Future Software Engineer🚀</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Vaishnavi%20Nag&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20|%20Full-Stack%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=58&descSize=20"/>
 </p>
 
 <p align="center">
