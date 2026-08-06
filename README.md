@@ -1,16 +1,11 @@
-<!-- Animated Coding Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Coding Animation"/>
-</p>
 
-<!-- Animated Typing -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Vaishnavi+Nag;Information+Science+Engineering+Student;AI+%7C+Full-Stack+Developer;Building+Ideas+into+Reality;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Vaishnavi+Nag;Information+Science+Engineering+Student;AI+%7C+Full-Stack+Developer;Backend+Developer;Building+Innovative+Solutions;Always+Learning+Something+New+🚀" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">
-  Passionate about Artificial Intelligence • Full-Stack Development • Open Source ✨
-</h3>
+<p align="center">
+  <b> AI Enthusiast •  Full-Stack Developer •  Open Source Learner • Future Software Engineer🚀</b>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vaishnavinag13&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
