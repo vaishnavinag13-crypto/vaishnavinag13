@@ -8,7 +8,7 @@
 
 ##  About Me✨
 
-```diff
+```
 + Name        :: Vaishnavi Nag
 + Education   :: Information Science Engineering
 + Interests   :: Artificial Intelligence | Full-Stack Development
@@ -96,28 +96,33 @@
 #  Most Used Languages✨
 
 <p align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavinag13&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavinag13&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
 #  GitHub Trophies✨
-
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vaishnavinag13E&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=vaishnavinag13&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
 
 #  Contribution Graph✨
-
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavinag13&theme=tokyo-night&hide_border=true"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavinag13&theme=tokyo-night&hide_border=true&radius=12"
+    width="100%"
+    alt="Contribution Graph"
+  />
+</p>
 
 </p>
 
@@ -143,8 +148,12 @@
 
 <p align="center">
 
-###   Thanks for visiting my profile!✨
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:06B6D4&height=120&section=footer"/>
+##  Let's Build Something Amazing🚀 
 
-</p>
+> *"Great software starts with curiosity, grows through collaboration, and creates lasting impact."*
+
+Thank you for visiting my profile! Feel free to explore my repositories, share your feedback, or connect with me. I'm always open to learning, collaborating, and contributing to exciting projects.
+
+  **Happy Coding!💙**
