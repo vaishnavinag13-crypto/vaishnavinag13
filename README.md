@@ -1,7 +1,7 @@
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Vaishnavi+Nag;Information+Science+Engineering+Student;AI+%7C+Full-Stack+Developer;Backend+Developer;Building+Innovative+Solutions;Always+Learning+Something+New+🚀" alt="Typing SVG" />
-</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4F46E5,30:7C3AED,60:9333EA,100:06B6D4&text=Vaishnavi%20Nag&fontColor=ffffff&fontSize=60&animation=twinkling&fontAlignY=35&desc=Artificial%20Intelligence%20%20•%20%20Full-Stack%20Developer&descAlignY=58&descSize=20"/>
+</p>
 
 <p align="center">
   <b> AI Enthusiast •  Full-Stack Developer •  Open Source Learner • Future Software Engineer🚀</b>
