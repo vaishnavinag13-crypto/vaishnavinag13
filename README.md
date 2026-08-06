@@ -95,36 +95,10 @@
 
 #  Most Used Languages✨
 
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavinag13&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12"
-    alt="Top Languages"
-  />
-</p>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavinag13&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12"/>
 
----
-
-#  GitHub Trophies✨
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=vaishnavinag13&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-#  Contribution Graph✨
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavinag13&theme=tokyo-night&hide_border=true&radius=12"
-    width="100%"
-    alt="Contribution Graph"
-  />
-</p>
-
-</p>
+</div>
 
 ---
 
@@ -135,9 +109,6 @@
 <img src="https://komarev.com/ghpvc/?username=vaishnavinag13&style=for-the-badge&color=7C3AED"/>
 
 </p>
-
-
-#  Quote
 
 <p align="center">
 
